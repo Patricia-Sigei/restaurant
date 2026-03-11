@@ -1,4 +1,4 @@
-# Desafio Alimentario 
+# Alimentario 
 ## Web Application Backend
 This is a NodeJS application backend for connecting to the database and third part APIs. 
 The front-end application connects to this backend and shares data via `GraphQl`
